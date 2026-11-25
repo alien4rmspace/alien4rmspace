@@ -29,6 +29,3 @@ Outside of robotics, I develop games independently, with a focus on multiplayer 
 
 ## 🧰 Stack
 `Python` `C++` `C#` `CUDA` `PyTorch` `TensorRT` `DeepStream` `GStreamer` `MediaPipe` `MAVLink` `llama.cpp` `Jetson` `Unity` `ESP32`
-
-## 📫 Find me
-[LinkedIn](#) · [Instagram](#)
